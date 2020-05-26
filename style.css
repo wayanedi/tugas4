@@ -1,0 +1,110 @@
+body{
+	font-family: arial;
+	font-size: 12px;
+	color: #1e5464;
+	background: #F7F7F7;
+	margin: 0px;
+	width: 1100px;
+    height: auto;
+    margin: 0px auto;
+}
+header{
+	margin-top: 20px;
+   	background: #1e5474;
+    padding: 5px 10px;
+    overflow: hidden;
+    height: 20px;
+}
+
+
+footer{
+	background: #1e5475;
+    padding: 5px 10px;
+    height: 20px;
+}
+footer p{
+	color: white;
+    text-align: right;
+    font-size: 10px;
+    font-style: italic;
+    margin: 0px;
+}
+.container-user-akses{
+	width: 350px;
+	height: auto;
+	margin: 50px auto;
+}
+.element-form{
+	margin: 15px;
+}
+
+.element-form label{
+	display: block;
+	font-weight: bold;
+}
+.element-form span{
+	display: block;
+}
+
+.element-form span input[type="text"],.element-form span input[type="password"],.element-form span input[type="file"], .element-form span textarea{
+	width: 250px;
+	padding: 5px;
+	box-sizing: border-box;
+}
+
+.element-form span input[type="submit"]{
+	background: #1e5474;
+	border:none;
+	color: white;
+	padding: 7px 20px;
+	border-radius: 3px;
+	font-size: 9px;
+	cursor: pointer;
+}
+.element-form span input[type="submit"]:hover{
+	background: black;
+}
+
+table{
+	margin: 15px;
+	align-content: center;
+}
+
+#content{
+	padding: 10px 0px;
+	overflow: hidden;
+}
+
+#bg-page-profile{
+	overflow: hidden;
+}
+
+#menu-profile{
+	float:left;
+	width: 245px;
+	background: #1e5474;
+}
+
+#menu-profile ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+#menu-profile ul li a{
+	display: block;
+	color: white;
+	text-decoration: none;
+	padding: 10px 20px;
+}
+
+#menu-profile ul li a:hover,#menu-profile ul li a.active{
+	background: orange;
+}
+
+#profile-content{
+	float: left;
+	width: 835px;
+	padding: 10px;
+	background: white;
+}
