@@ -40,7 +40,7 @@
 			</div>
 
 			<div class="element-form">
-				<label>Password</label>
+				<label>Password rahasia</label>
 				<span><input type="password" name="password" required="Password anda kosong"></span>
 			</div>
 
