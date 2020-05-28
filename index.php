@@ -35,7 +35,7 @@
 	<form action="index.php" method="POST">
 		<div class="container-user-akses">
 			<div class="element-form">
-				<label>Email</label>
+				<label>Email Mu Apa</label>
 				<span><input type="text" name="email" required="Email anda kosong"></span>
 			</div>
 
