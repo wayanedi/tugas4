@@ -3,6 +3,18 @@ os: linux
 files:
   - source: /index.php
     destination: /var/www/html/
+  - source: /connect.php
+    destination: /var/www/html/
+  - source: /film.php
+    destination: /var/www/html/
+  - source: /logout.php
+    destination: /var/www/html/
+  - source: /pendidikan.php
+    destination: /var/www/html/
+  - source: /skill.php
+    destination: /var/www/html/
+  - source: /style.css
+    destination: /var/www/html/
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies
