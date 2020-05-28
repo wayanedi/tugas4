@@ -1,3 +1,6 @@
 #!/bin/bash
 apt install -y apache2
 rm /var/www/html/index.html
+apt-get install php libapache2-mod-php -y
+apt-get install php-cli php-common php-mbstring php-gd php-intl php-xml php-mysql php-zip php-curl php-xmlrpc -y
+systemctl restart apache2
