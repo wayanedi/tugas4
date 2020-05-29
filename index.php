@@ -45,7 +45,7 @@
 			</div>
 
 			<div class="element-form">
-				<span><input type="submit" name="submit" id="submit" value="LOGIN"></span>
+				<span><input type="submit" name="submit" id="submit" value="LOGIN GAN"></span>
 			</div>
 		</div>	
 	</form>
