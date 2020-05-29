@@ -45,7 +45,7 @@
 			</div>
 
 			<div class="element-form">
-				<span><input type="submit" name="submit" id="submit" value="JANGAN LOGIN GAN"></span>
+				<span><input type="submit" name="submit" id="submit" value="JANGAN LOGIN SUUUU"></span>
 			</div>
 		</div>	
 	</form>
